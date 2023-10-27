@@ -1,0 +1,28 @@
+.Main-2{
+    float: left;
+    margin:30px; 
+    margin-left:90px;
+
+}
+.Card_1{
+    
+    border: 1px solid black;
+    width: 350px;
+    height: auto;
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgb(207, 246, 233);
+    border-radius: 20px;
+    
+    
+}
+
+.random_1{
+    text-align: center;
+    color: rgb(72, 255, 0);
+    font-style: italic;
+}
+.description_1{
+    font-size: 15px;
+    color: rgb(104, 0, 0);
+}

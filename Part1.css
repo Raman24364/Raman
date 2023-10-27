@@ -1,0 +1,8 @@
+.Part1{
+    display: flex;
+    justify-content: center;
+}
+.Part_h1{
+    border: 2px solid black;
+    width: 500px;
+}

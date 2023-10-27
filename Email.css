@@ -1,0 +1,35 @@
+.Box{
+    display: flex;
+    border: 1px solid black;
+    width: 100%;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(165, 166, 164);
+}
+.input_1{
+    border-radius: 5px;
+    width:800px;
+    height:30px;
+    flex: 1;
+}
+h2{
+    margin-right: auto;
+}
+.paragraph{
+    margin: 0 10px;
+}
+.img{
+    width: 100%;
+    height:auto;
+}
+.img img{
+    margin-left: 0px;
+    width:100%;
+    height:600px;
+}
+.Articles{
+    text-align: center;
+    color: #009b77;
+}
+
